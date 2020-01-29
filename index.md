@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# Hong il Kim
 
-You can use the [editor on GitHub](https://github.com/hong-il/kim/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Takadanobaba, Shinjuku-ku, Tokyo  
+Phone: 090-1128-4422   
+hongil.kim.dev@gmail.com, github.com/hong-il
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Skills
+### Backend
+* Java, Groovy, Node.js
+* Spring Boot, Spring MVC, Spring Security, Spring Data JPA/Redis, Spring Cloud AWS
+* JPA, Hibernate, MyBatis
+* JUnit, Spock, Swagger
+* Gradle, Maven
+* IntelliJ, Visual Studio Code, Eclipse
 
-### Markdown
+### DevOps
+* MySQL, MariaDB, OracleDB
+* Jenkins, TravisCI
+* AWS RDS (MariaDB), S3, EC2
+* Nginx, Tomcat
+* Linux CentOS
+* GIT, SVN
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Frontend
+* ES8, TypeScript
+* Angular
+* Thymeleaf
 
-```markdown
-Syntax highlighted code block
+### Language
+* Japanese in full professional proficiency
+* English in a conversation level
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+# Projects
+### Jewelry Trading Application (Intertrade / Tokyo) | 10 . 2019 - PRESENT
+* Implemented the trade documentation feature and real-time data transmission  
+* Designed and implemented API’s interface for system linkage with server-side
+* Reviewed team member’s design and implementation
+* Node.js, Angular 7, TypeScript, Jenkins, GIT
 
-1. Numbered
-2. List
+### Stock Trading System (Intertrade / Tokyo) | 4 . 2019 - 9 . 2019
+* Implemented the features of the data analysis and statistical system
+* Refactored legacy code from Hibernate 3 to JPA
+* Introduced Spring boot and JPA to inexperienced member
+* Reduced test issues of 70% by introducing JUnit 4 
+* Spring boot, OracleDB, JPA, Hibernate, Gradle 4, JUnit 4, Linux CentOS, SVN
 
-**Bold** and _Italic_ and `Code` text
+### Human Resources Recruitment System (SES / Seoul) | 9 . 2018 - 3 . 2019
+* Joined the development task force after graduating with the highest grade in the academy
+* Designed dozens of DB tables and screens
+* Implemented a matching system between human resources and the enterprise 
+* Spring, MariaDB, MyBatis, Maven, JSP, JavaScript, Angular.js, SVN
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Experience
+### Intertrade (Tokyo / Japan) | 4 . 2019 - PRESENT  
+* Financial Solution Service Division
+* System designing, Implementation, Testing
+* Review team members' design and implementation
+* Find out solutions against existing issues 
 
-### Jekyll Themes
+### Smart Cloud IT Master (Seoul / Republic of Korea) | 10 . 2017 - 3 . 2019 
+* Learned design patterns in web development and built up the skill sets expected to implement dynamic web applications 
+* Spring, OracleDB, MyBatis, Maven, JSP, JavaScript, GIT
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hong-il/kim/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
