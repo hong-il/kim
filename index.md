@@ -65,4 +65,3 @@ hongil.kim.dev@gmail.com, github.com/hong-il
 * Learned design patterns in web development and built up the skill sets expected to implement dynamic web applications 
 * Spring, OracleDB, MyBatis, Maven, JSP, JavaScript, GIT
 
----
