@@ -1,25 +1,25 @@
-# Hong il Kim
+# 김홍일
 
-Takadanobaba, Shinjuku-ku, Tokyo  
-Phone: 090-1128-4422   
+서울특별시, 대한민국 
 hongil.kim.dev@gmail.com, github.com/hong-il
 
 # Skills
 ### Backend
-* Java, Groovy, Node.js
+* Java, Python, Groovy, Node.js
 * Spring Boot, Spring MVC, Spring Security, Spring Data JPA/Redis, Spring Cloud AWS
 * JPA, Hibernate, MyBatis
+* RabbitMQ
 * JUnit, Spock, Swagger
 * Gradle, Maven
-* IntelliJ, Visual Studio Code, Eclipse
+* IntelliJ, PyCharm, Visual Studio Code, Eclipse
 
 ### DevOps
-* MySQL, MariaDB, OracleDB
+* MySQL, MariaDB, OracleDB, PostgreSQL
 * Jenkins, TravisCI
-* AWS RDS (MariaDB), S3, EC2
+* EC2, AWS RDS, S3
 * Nginx, Tomcat
-* Linux CentOS
-* GIT, SVN
+* Linux CentOS, Ubuntu
+* Git flow, SVN
 
 ### Frontend
 * ES8, TypeScript
@@ -33,13 +33,13 @@ hongil.kim.dev@gmail.com, github.com/hong-il
 ---
 
 # Projects
-### Jewelry Trading Application (Intertrade / Tokyo) | 10 . 2019 - PRESENT
-* Implemented the trade documentation feature and real-time data transmission  
-* Designed and implemented API’s interface for system linkage with server-side
-* Reviewed team member’s design and implementation
+### 귀금속 거래 시스템 (Intertrade / Tokyo) | 10 . 2019 - 3 . 2020
+* 거래내역 문서화 기능 및 실시간 데이터 집계 시스템 구현 
+* 약 20페이지의 화면 인터페이스의 설계 및 구현
+* 팀 동료들과의 주기적인 소스코드 리뷰 활동
 * Node.js, Angular 7, TypeScript, Jenkins, GIT
 
-### Stock Trading System (Intertrade / Tokyo) | 4 . 2019 - 9 . 2019
+### 주식 거래 시스템 (Intertrade / Tokyo) | 4 . 2019 - 9 . 2019
 * Implemented the features of the data analysis and statistical system
 * Refactored legacy code from Hibernate 3 to JPA
 * Introduced Spring boot and JPA to inexperienced member
